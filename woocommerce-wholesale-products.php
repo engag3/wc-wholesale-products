@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: WooCommerce Wholesale Category
+ * Plugin Name: E3 WooCommerce Wholesale Category
  * Plugin URI: https://www.engag3.media
  * Description: Products in the "Wholesale" category will only be visible to users with the "Wholesale" user role.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: ENGAG3 Media
  * Author URI: https://www.engag3.media
  * GitHub Plugin URI: engag3/wc-wholesale-products
